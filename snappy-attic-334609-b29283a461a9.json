@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "snappy-attic-334609",
+  "private_key_id": "b29283a461a9a5e8e2e26b9101bfdb8a5039e6fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHmxgy64CWwkMk\npYDGQs2Me5VKkJjmFM9MQ6+4uo4EUrfNkY7bkiUwtx197CpAb7sy+CxFgOD95f0c\n2iNoCUT13zFKsZ0T6mgxbtmjlr+EAgjJQgWvbVbLAqI5CTnG4NnQxXqCb2oXbhOe\nQBSeWU2620dcFMgon4U2INa9ddXt4PTWs0+cOOjDxo8Q0nCb7sEv3GgF7HNUy8xK\n05jooq6isX8Ys08m07FN6GFK/CDP60OvtTkEhUS5lD/FoW0PMqKzGK88lobMdXat\n2E3uxffvIMlRP0NVKUrMCWBKRzBdzjqmJaBD2tO4mkyeAdsPu1kWcSgOdbfZ/Gsd\nUPICSn/zAgMBAAECggEAGZolEnLufWfRYOPxjnyHDNvVHElLs0c8B5Yu9czH5noN\npUpkPnmSV5tFJx+hk75BDpqSYx/Su/5B5u971x5JQBgupFv/v8wzLRQAymDNk8sH\nAXl8bTHjDgr6b8JlLMMubP7HZe+Qdgzia0vg2SavN6ZkksT/n2ZGmdjAcnCozefw\nl+y48OTUTwdtZkEkQCMk3gQwyow37SbSJ820NE9yvLM9CaHtPjUeWQldFgBACIMi\nofN3ETgiNy3Q4ZPqihs916G6HEfa2JpXMCxKC7oCTG4anFNjH2jVHra36bxW4Y4h\nnDmhPRp5VyC0qPXvRmaqf93p1KC/im9oeyubfWpRgQKBgQDzzafw10BmIxdF5Bbe\nS5MM4aPgZSgHxJickEapQ3GHCVxG0PG1VF082lRABTgZZSCQVLGB0JieP+NUicJ1\nzHyN1ugO7CkMAuu7SfHnAiC9WsLEHggQ1mtZftK1ofEQHgIij3RAJHmKQPxRlmRi\nVkKCGxuQZ+zbE0mIMip7uT+5kwKBgQDRl2jHLc1KDDJo22ci7vu+BABoeyfes0K9\nQw01wD8Cj9T0KFvbO/Ik1r8/7dVjD9G7Lf/4HGCEJMh9IQv5VK+gb8kHMGQBI2dD\nkRw9I/Lyof+kCY3TkyXWRZrXt1+MTgTi9xq0CF1/Qw0lT4fH5VQF/LkBQAHiGaC1\nKIsvasqcIQKBgQDzOv7MeYNHIsUqNidWeWFonYhn66OnNEzpDcthPOb7SKxl/jjW\npicq+crJ4CsasthtBgHduCU65BRBl/qImYy92WTE1nkRAaz6ugf7ZxUQtIbRMADu\nA20v6SYAjWK5qKaKokHhaEJVWwYfw4G81cAemzrBs90Kp1BZ72qQ6r0XvwKBgFy4\nr/jV0Wj9xltPHOx+b05btNaEDVpfUZorDLAH0ZhPizVMmX5+oZwciNU+YVWGzRES\nw5e+7g/nue5pbUOrbFr8uSF+De/W+rsQej6uJa+jbVXjiCPeiDGn712ZWSLX7R9/\nlAerX7mKL0mfSoFreeWALVRZPbwJ/GfIfPLIOsQhAoGAbRlnLZxelJn9bmOS0EYe\nTjSmW2MEyzLJI6HWFsfKr0S3aFkN6QONCTKp24fh5myOckOimoIQN775082HlAoP\nrYnFp8mIJK/6uQVFEQKiTg/TYw/qFwz4cOPE00X+YNyz2IUHbwL/fIvnWuFhaNcI\nGdW9SWHEM48kd24x7R3VtcQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "motions-bot@snappy-attic-334609.iam.gserviceaccount.com",
+  "client_id": "104193131777620688026",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/motions-bot%40snappy-attic-334609.iam.gserviceaccount.com"
+}

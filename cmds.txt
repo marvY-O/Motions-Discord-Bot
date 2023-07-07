@@ -1,0 +1,4 @@
+pip install --upgrade google-cloud-bigquery
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/runner/motionsbot/snappy-attic-334609-b29283a461a9.json"
+
